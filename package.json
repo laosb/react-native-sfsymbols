@@ -1,5 +1,8 @@
 {
-  "name": "react-native-sfsymbols",
+  "name": "@laosb/react-native-sfsymbols",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.2.0",
   "description": "Use SF Symbols in iOS apps",
   "main": "lib/index.js",
